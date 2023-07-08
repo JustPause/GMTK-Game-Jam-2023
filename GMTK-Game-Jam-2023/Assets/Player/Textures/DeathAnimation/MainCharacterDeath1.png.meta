@@ -34,6 +34,7 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     filterMode: 0
     aniso: 1
     mipBias: 0
@@ -48,6 +49,14 @@ TextureImporter:
     wrapV: 1
     wrapW: 1
 >>>>>>> 790e0d8 (Befor hell)
+=======
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 3
+    wrapV: 3
+    wrapW: 3
+>>>>>>> 0ca0149 (Szzzzzzzzzzzzzzzzzzzzzzzzz)
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -57,10 +66,14 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
 <<<<<<< HEAD
+<<<<<<< HEAD
   spritePixelsToUnits: 4
 =======
   spritePixelsToUnits: 100
 >>>>>>> 790e0d8 (Befor hell)
+=======
+  spritePixelsToUnits: 4
+>>>>>>> 0ca0149 (Szzzzzzzzzzzzzzzzzzzzzzzzz)
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -134,10 +147,14 @@ TextureImporter:
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
 <<<<<<< HEAD
+<<<<<<< HEAD
     internalID: 1537655665
 =======
     internalID: 0
 >>>>>>> 790e0d8 (Befor hell)
+=======
+    internalID: 1537655665
+>>>>>>> 0ca0149 (Szzzzzzzzzzzzzzzzzzzzzzzzz)
     vertices: []
     indices: 
     edges: []

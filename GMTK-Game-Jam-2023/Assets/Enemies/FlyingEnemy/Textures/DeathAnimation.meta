@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Enemies/FlyingEnemy/Textures/DeathAnimation.meta
 guid: 208fd7030a1c0cf9b8f97c38407bffe7
+========
+guid: 1eb89868e9a7afd448a0c2aa17c1be22
+>>>>>>>> 0ca0149 (Szzzzzzzzzzzzzzzzzzzzzzzzz):GMTK-Game-Jam-2023/Assets/Enemies/FlyingEnemy/Textures/DeathAnimationLights.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
