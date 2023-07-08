@@ -20,7 +20,7 @@ Ideja yra ta, kad kuri saugoti kietaji diska nuo aplinkiniu givybes formu, jas g
 
 ---
 
-## ToDo
+## ToDo Jonas
 
 * [ ] Walkable path x1
 * [ ] background x1
@@ -30,3 +30,9 @@ Ideja yra ta, kad kuri saugoti kietaji diska nuo aplinkiniu givybes formu, jas g
 * [ ] start screen - game screenshot + buttons
 * [ ] UI - tbd
 * [ ] terminal commands
+
+## ToDo Justinas
+
+* [ ] IDK
+
+
