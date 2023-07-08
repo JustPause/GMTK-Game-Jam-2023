@@ -22,14 +22,16 @@ public class FolowMainCharecter : MonoBehaviour
             transform.position.y,
             transform.position.z),
 
-            new Vector3(player.position.x,
-            player.position.y,
-            player.position.z));
+            new Vector3(
+                player.position.x,
+                player.position.y,
+                player.position.z
+            )
+        );
 
-            Vector3 direction = player.position - transform.position;
-            Debug.Log(direction);
-
-            // float angle = Mathf.Atam2(direction.y, direction.x) * Mathf.Rad2Deg;
-            // rb.rotation = angle;
+        Vector3 direction = player.position - transform.position;
+        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+        rb.rotation = new Quaternion(0, 90, 0, 0);
+        Debug.Log(angle);
     }
 }
