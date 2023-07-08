@@ -1,8 +1,12 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Scenes/SceneAssets/Textures/BackgroundObjects/Materials/billboardPinkLetters.mat.meta
 guid: dfb21ef3370a289399bd6a33046347e4
+========
+guid: 02880cfc066d64fcd91f23d80175941a
+>>>>>>>> 0ca0149 (Szzzzzzzzzzzzzzzzzzzzzzzzz):GMTK-Game-Jam-2023/Assets/Player/Animasion/Player.controller.meta
 NativeFormatImporter:
   externalObjects: {}
-  mainObjectFileID: 2100000
+  mainObjectFileID: 9100000
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -37,6 +37,7 @@ Ideja yra ta, kad kuri saugoti kietaji diska nuo aplinkiniu givybes formu, jas g
 
 ---
 
+<<<<<<< HEAD
 * [x] Main Carecter Animation, ejimas, mirtis
 * [ ] Main cerecter Emision,
 * [ ] Enemy Death Script, it flops wen defeted
@@ -96,3 +97,11 @@ the end of the game tures tiesiog koki nors  trigger point kur tau I console par
 Error: kazkoks error kad nebeturi access prie savo movement keys
 ir vienintelis option lieka kad tu turi executinti kill command ant saves
 apsiribojam tokiu
+=======
+* [ ] Main Carecter Animation
+* [ ] Main cerecter Emision
+* [ ] Eneemy movement
+* [ ] Text and responces
+* [ ] Global Metereal enemyu
+* [ ] Enemy Death Script, it flops wen defeted
+>>>>>>> 31f6727 (Szzzzzzzzzzzzzzzzzzzzzzzzz)
