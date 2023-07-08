@@ -37,5 +37,5 @@ Ideja yra ta, kad kuri saugoti kietaji diska nuo aplinkiniu givybes formu, jas g
 * [ ] Main cerecter Emision
 * [ ] Eneemy movement
 * [ ] Text and responces
-
-
+* [ ] Global Metereal enemyu
+* [ ] Enemy Death Script, it flops wen defeted
