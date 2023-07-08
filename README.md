@@ -33,6 +33,9 @@ Ideja yra ta, kad kuri saugoti kietaji diska nuo aplinkiniu givybes formu, jas g
 
 ## ToDo Justinas
 
-* [ ] IDK
+* [ ] Main Carecter Animation
+* [ ] Main cerecter Emision
+* [ ] Eneemy movement
+* [ ] Text and responces
 
 
