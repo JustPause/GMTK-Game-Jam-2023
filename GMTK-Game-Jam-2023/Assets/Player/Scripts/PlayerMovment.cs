@@ -13,6 +13,7 @@ public class PlayerMovment : MonoBehaviour
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     public SpriteRenderer playerSpriteRenderer;
 =======
 >>>>>>> 6d303f1 (Gal po pudate UNiversal fixx)
@@ -21,6 +22,11 @@ public class PlayerMovment : MonoBehaviour
 =======
     public SpriteRenderer playerSpriteRenderer;
 >>>>>>> 89e2c82 (bEEPbOOP)
+=======
+
+    public SpriteRenderer playerSpriteRenderer;
+
+>>>>>>> de712d4 (Fix)
     public Vector3 movement;
 
     void Start()
@@ -54,6 +60,7 @@ public class PlayerMovment : MonoBehaviour
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 6d303f1 (Gal po pudate UNiversal fixx)
@@ -62,5 +69,7 @@ public class PlayerMovment : MonoBehaviour
 =======
 
 >>>>>>> 89e2c82 (bEEPbOOP)
+=======
+>>>>>>> de712d4 (Fix)
     }
 }
