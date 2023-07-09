@@ -47,6 +47,11 @@ Plezz make sprite shetes
 * [ ] Eneemy movement
 * [ ] Console Fing inplementteiosion
 
+---
+
+* [ ] graziai sudetri
+* [ ] padaryti kad zenklai sviestu ground fings
+
 ## Terminal commands
 
 # MENU:
