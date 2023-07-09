@@ -37,7 +37,7 @@ Ideja yra ta, kad kuri saugoti kietaji diska nuo aplinkiniu givybes formu, jas g
 
 ---
 
-* [ ] Main Carecter Animation, ejimas, mirtis
+* [x] Main Carecter Animation, ejimas, mirtis
 * [ ] Main cerecter Emision,
 * [ ] Enemy Death Script, it flops wen defeted
 Plezz make sprite shetes
