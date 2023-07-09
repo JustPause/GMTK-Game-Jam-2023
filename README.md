@@ -38,6 +38,7 @@ Ideja yra ta, kad kuri saugoti kietaji diska nuo aplinkiniu givybes formu, jas g
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 * [x] Main Carecter Animation, ejimas, mirtis
 * [ ] Main cerecter Emision,
 * [ ] Enemy Death Script, it flops wen defeted
@@ -98,8 +99,19 @@ Error: kazkoks error kad nebeturi access prie savo movement keys
 ir vienintelis option lieka kad tu turi executinti kill command ant saves
 apsiribojam tokiu
 =======
+=======
+>>>>>>> 3b0df55 (z)
 * [ ] Main Carecter Animation
 * [ ] Main cerecter Emision
+=======
+* [ ] Main Carecter Animation, ejimas, mirtis
+* [ ] Main cerecter Emision,
+* [ ] Enemy Death Script, it flops wen defeted
+Plezz make sprite shetes
+
+---
+
+>>>>>>> 259cc86 (z)
 * [ ] Eneemy movement
 * [ ] Text and responces
 * [ ] Global Metereal enemyu
