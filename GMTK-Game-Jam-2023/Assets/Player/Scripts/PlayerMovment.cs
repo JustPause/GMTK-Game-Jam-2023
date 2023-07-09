@@ -9,7 +9,7 @@ public class PlayerMovment : MonoBehaviour
     public float jumpPowor = 1;
     public float gravity = 9.8f;
 
-    public Rigidbody rigidbody;
+    public Rigidbody player;
     public Vector3 movement;
 
     void Update()
@@ -25,6 +25,6 @@ public class PlayerMovment : MonoBehaviour
     void moveCharacter(Vector3 vector3)
     {
         // rigidbody.AddForce(vector3 * (movementSpeed * 100) * Time.deltaTime);
-        rigidbody.velocity = (vector3 * (movementSpeed * 100) * Time.deltaTime);
+        player.velocity = (vector3 * (movementSpeed * 100) * Time.deltaTime);
     }
 }

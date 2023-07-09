@@ -60,6 +60,7 @@ Plezz make sprite shetes
 * [ ] Enemy Death Script, it flops wen defeted
 =======
 * [ ] Console Fing inplementteiosion
+* [ ] Seselis po zaideju ir priesu
 
 ---
 
