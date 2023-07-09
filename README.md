@@ -39,6 +39,7 @@ Ideja yra ta, kad kuri saugoti kietaji diska nuo aplinkiniu givybes formu, jas g
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 * [x] Main Carecter Animation, ejimas, mirtis
 * [ ] Main cerecter Emision,
 * [ ] Enemy Death Script, it flops wen defeted
@@ -101,10 +102,15 @@ apsiribojam tokiu
 =======
 =======
 >>>>>>> 3b0df55 (z)
+=======
+>>>>>>> d913d2d (Psuh)
 * [ ] Main Carecter Animation
 * [ ] Main cerecter Emision
 =======
 * [ ] Main Carecter Animation, ejimas, mirtis
+=======
+* [x] Main Carecter Animation, ejimas, mirtis
+>>>>>>> d98de4b (Psuh)
 * [ ] Main cerecter Emision,
 * [ ] Enemy Death Script, it flops wen defeted
 Plezz make sprite shetes

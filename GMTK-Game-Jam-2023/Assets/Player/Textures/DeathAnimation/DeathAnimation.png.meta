@@ -34,6 +34,7 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     filterMode: 0
     aniso: 1
     mipBias: 0
@@ -42,6 +43,13 @@ TextureImporter:
     wrapV: 1
     wrapW: 1
 =======
+=======
+<<<<<<< HEAD
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/DeathAnimation/MainCharacterDeath1.png.meta
+>>>>>>> d913d2d (Psuh)
     wrapU: 3
     wrapV: 3
     wrapW: 3
@@ -53,13 +61,30 @@ TextureImporter:
     wrapV: 1
     wrapW: 1
 >>>>>>> 790e0d8 (Befor hell)
+<<<<<<< HEAD
 >>>>>>> 0c84adb (Befor hell):GMTK-Game-Jam-2023/Assets/Player/Textures/DeathAnimation/MainCharacterDeath1.png.meta
+=======
+=======
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 3
+    wrapV: 3
+    wrapW: 3
+>>>>>>> 0ca0149 (Szzzzzzzzzzzzzzzzzzzzzzzzz)
+=======
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+>>>>>>> d98de4b (Psuh):GMTK-Game-Jam-2023/Assets/Player/Textures/DeathAnimation/DeathAnimation.png.meta
+>>>>>>> d913d2d (Psuh)
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
+<<<<<<< HEAD
 <<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/DeathAnimation/DeathAnimation.png.meta
   alignment: 7
   spritePivot: {x: 0.5, y: 0}
@@ -68,10 +93,27 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
 <<<<<<< HEAD
 >>>>>>> 0c84adb (Befor hell):GMTK-Game-Jam-2023/Assets/Player/Textures/DeathAnimation/MainCharacterDeath1.png.meta
+=======
+<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/DeathAnimation/MainCharacterDeath1.png.meta
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+>>>>>>> d98de4b (Psuh):GMTK-Game-Jam-2023/Assets/Player/Textures/DeathAnimation/DeathAnimation.png.meta
+>>>>>>> d913d2d (Psuh)
   spritePixelsToUnits: 4
 =======
   spritePixelsToUnits: 100
 >>>>>>> 790e0d8 (Befor hell)
+<<<<<<< HEAD
+=======
+=======
+  spritePixelsToUnits: 4
+>>>>>>> 0ca0149 (Szzzzzzzzzzzzzzzzzzzzzzzzz)
+>>>>>>> d913d2d (Psuh)
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -250,10 +292,20 @@ TextureImporter:
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> d913d2d (Psuh)
     internalID: 1537655665
 =======
     internalID: 0
 >>>>>>> 790e0d8 (Befor hell)
+<<<<<<< HEAD
+=======
+=======
+    internalID: 1537655665
+>>>>>>> 0ca0149 (Szzzzzzzzzzzzzzzzzzzzzzzzz)
+>>>>>>> d913d2d (Psuh)
     vertices: []
     indices: 
     edges: []

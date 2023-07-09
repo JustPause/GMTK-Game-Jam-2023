@@ -17,10 +17,17 @@ MonoBehaviour:
     overrideState: 1
     value: 1
   intensity:
+<<<<<<< HEAD
     overrideState: 1
     value: 10
   threshold:
     overrideState: 1
+=======
+    overrideState: 0
+    value: 0
+  threshold:
+    overrideState: 0
+>>>>>>> d913d2d (Psuh)
     value: 1
   softKnee:
     overrideState: 0

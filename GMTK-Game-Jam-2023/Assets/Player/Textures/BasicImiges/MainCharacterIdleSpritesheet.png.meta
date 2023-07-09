@@ -1,12 +1,28 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
 guid: 9572f929ee3c58010829b0224997d99e
+========
+guid: 92e7b76ca8e3c63e197628127aa880f8
+>>>>>>>> d913d2d (Psuh):GMTK-Game-Jam-2023/Assets/Enemies/GroundEnemy/Textures/GroundEnemyIdleSpritesheet.png.meta
+=======
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/LightsIdle.png.meta
+guid: 510f63266b097fe18823e614121a8aac
+========
+guid: 9572f929ee3c58010829b0224997d99e
+>>>>>>>> d913d2d (Psuh):GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
+>>>>>>> d913d2d (Psuh)
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
+<<<<<<< HEAD
     enableMipMap: 0
+=======
+    enableMipMap: 1
+>>>>>>> d913d2d (Psuh)
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -34,14 +50,32 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     filterMode: 0
     aniso: 1
     mipBias: 0
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
 <<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
+=======
+<<<<<<< HEAD
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/LightsIdle.png.meta
+<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/LightsIdle.png.meta
+>>>>>>> d913d2d (Psuh)
     wrapU: 1
     wrapV: 1
     wrapW: 1
 =======
+========
+<<<<<<< HEAD
+<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/DeathAnimation/MainCharacterDeath3.png.meta
+>>>>>>>> d913d2d (Psuh):GMTK-Game-Jam-2023/Assets/Enemies/GroundEnemy/Textures/GroundEnemyIdleSpritesheet.png.meta
+=======
+<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/DeathAnimation/MainCharacterDeath4.png.meta
+>>>>>>>> d913d2d (Psuh):GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
+>>>>>>> d913d2d (Psuh)
     wrapU: 3
     wrapV: 3
     wrapW: 3
@@ -53,13 +87,47 @@ TextureImporter:
     wrapV: 1
     wrapW: 1
 >>>>>>> 790e0d8 (Befor hell)
+<<<<<<< HEAD
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
 >>>>>>> 0c84adb (Befor hell):GMTK-Game-Jam-2023/Assets/Player/Textures/DeathAnimation/MainCharacterDeath4.png.meta
+========
+=======
+<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/LightsIdle.png.meta
+>>>>>>> 0c84adb (Befor hell):GMTK-Game-Jam-2023/Assets/Player/Textures/DeathAnimation/MainCharacterDeath5.png.meta
+=======
+>>>>>>> d913d2d (Psuh)
+=======
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 3
+    wrapV: 3
+    wrapW: 3
+>>>>>>> 0ca0149 (Szzzzzzzzzzzzzzzzzzzzzzzzz)
+<<<<<<< HEAD
+=======
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/LightsIdle.png.meta
+>>>>>>> 31f6727 (Szzzzzzzzzzzzzzzzzzzzzzzzz):GMTK-Game-Jam-2023/Assets/Player/Textures/DeathAnimation/MainCharacterDeath1.png.meta
+========
+>>>>>>> d913d2d (Psuh)
+=======
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+<<<<<<< HEAD
+>>>>>>> d98de4b (Psuh):GMTK-Game-Jam-2023/Assets/Enemies/GroundEnemy/Textures/GroundEnemyIdleSpritesheet.png.meta
+>>>>>>>> d913d2d (Psuh):GMTK-Game-Jam-2023/Assets/Enemies/GroundEnemy/Textures/GroundEnemyIdleSpritesheet.png.meta
+=======
+>>>>>>> d98de4b (Psuh):GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
+>>>>>>>> d913d2d (Psuh):GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
+>>>>>>> d913d2d (Psuh)
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
+<<<<<<< HEAD
 <<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
   alignment: 7
   spritePivot: {x: 0.5, y: 0}
@@ -68,16 +136,37 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
 <<<<<<< HEAD
 >>>>>>> 0c84adb (Befor hell):GMTK-Game-Jam-2023/Assets/Player/Textures/DeathAnimation/MainCharacterDeath4.png.meta
+=======
+<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/DeathAnimation/MainCharacterDeath4.png.meta
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+>>>>>>> d98de4b (Psuh):GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
+>>>>>>> d913d2d (Psuh)
   spritePixelsToUnits: 4
 =======
   spritePixelsToUnits: 100
 >>>>>>> 790e0d8 (Befor hell)
+<<<<<<< HEAD
+=======
+=======
+  spritePixelsToUnits: 4
+>>>>>>> 0ca0149 (Szzzzzzzzzzzzzzzzzzzzzzzzz)
+>>>>>>> d913d2d (Psuh)
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
+<<<<<<< HEAD
   textureType: 8
+=======
+  textureType: 0
+>>>>>>> d913d2d (Psuh)
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -141,13 +230,33 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+<<<<<<< HEAD
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
       name: MainCharacterIdleSpritesheet_0
+========
+      name: GroundEnemyIdleSpritesheet_0
+>>>>>>>> d913d2d (Psuh):GMTK-Game-Jam-2023/Assets/Enemies/GroundEnemy/Textures/GroundEnemyIdleSpritesheet.png.meta
+=======
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/LightsIdle.png.meta
+      name: LightsIdle_0
+========
+      name: MainCharacterIdleSpritesheet_0
+>>>>>>>> d913d2d (Psuh):GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
+>>>>>>> d913d2d (Psuh)
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 24
+<<<<<<< HEAD
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
         height: 45
+========
+        height: 36
+>>>>>>>> d913d2d (Psuh):GMTK-Game-Jam-2023/Assets/Enemies/GroundEnemy/Textures/GroundEnemyIdleSpritesheet.png.meta
+=======
+        height: 45
+>>>>>>> d913d2d (Psuh)
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,20 +264,55 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
       spriteID: bc6221a6c46628f599649676242f375d
       internalID: 240481252
+========
+      spriteID: 663116b760b20c75480b12b2d369a3d5
+      internalID: -482014431
+>>>>>>>> d913d2d (Psuh):GMTK-Game-Jam-2023/Assets/Enemies/GroundEnemy/Textures/GroundEnemyIdleSpritesheet.png.meta
+=======
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/LightsIdle.png.meta
+      spriteID: ab929035db0be7fb48b71e4c0ec5da0b
+      internalID: -1458820421
+========
+      spriteID: bc6221a6c46628f599649676242f375d
+      internalID: 240481252
+>>>>>>>> d913d2d (Psuh):GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
+>>>>>>> d913d2d (Psuh)
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< HEAD
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
       name: MainCharacterIdleSpritesheet_1
+========
+      name: GroundEnemyIdleSpritesheet_1
+>>>>>>>> d913d2d (Psuh):GMTK-Game-Jam-2023/Assets/Enemies/GroundEnemy/Textures/GroundEnemyIdleSpritesheet.png.meta
+=======
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/LightsIdle.png.meta
+      name: LightsIdle_1
+========
+      name: MainCharacterIdleSpritesheet_1
+>>>>>>>> d913d2d (Psuh):GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
+>>>>>>> d913d2d (Psuh)
       rect:
         serializedVersion: 2
         x: 24
         y: 0
         width: 24
+<<<<<<< HEAD
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
         height: 45
+========
+        height: 36
+>>>>>>>> d913d2d (Psuh):GMTK-Game-Jam-2023/Assets/Enemies/GroundEnemy/Textures/GroundEnemyIdleSpritesheet.png.meta
+=======
+        height: 45
+>>>>>>> d913d2d (Psuh)
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,8 +320,23 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
       spriteID: 952bcae26c100526b98d62f4f12dd850
       internalID: -1563421741
+========
+      spriteID: fd443be2412cd787f8ef8fe53500af7d
+      internalID: 322606167
+>>>>>>>> d913d2d (Psuh):GMTK-Game-Jam-2023/Assets/Enemies/GroundEnemy/Textures/GroundEnemyIdleSpritesheet.png.meta
+=======
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/LightsIdle.png.meta
+      spriteID: 6b7f3faad014240ea9b30bf20982025f
+      internalID: 961903161
+========
+      spriteID: 952bcae26c100526b98d62f4f12dd850
+      internalID: -1563421741
+>>>>>>>> d913d2d (Psuh):GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
+>>>>>>> d913d2d (Psuh)
       vertices: []
       indices: 
       edges: []
@@ -186,17 +345,56 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
+<<<<<<< HEAD
     internalID: 0
+=======
+<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/LightsIdle.png.meta
+    internalID: 0
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    internalID: 1537655665
+=======
+    internalID: 0
+>>>>>>> 790e0d8 (Befor hell)
+=======
+    internalID: 1537655665
+>>>>>>> 0ca0149 (Szzzzzzzzzzzzzzzzzzzzzzzzz)
+>>>>>>> 31f6727 (Szzzzzzzzzzzzzzzzzzzzzzzzz):GMTK-Game-Jam-2023/Assets/Player/Textures/DeathAnimation/MainCharacterDeath1.png.meta
+>>>>>>> d913d2d (Psuh)
     vertices: []
     indices: 
     edges: []
     weights: []
+<<<<<<< HEAD
     secondaryTextures:
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
     - texture: {fileID: 2800000, guid: aff36f85c6e2e2e1489f241051d4c3f6, type: 3}
+=======
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/LightsIdle.png.meta
+    secondaryTextures: []
+    nameFileIdTable:
+      LightsIdle_0: -1458820421
+      LightsIdle_1: 961903161
+========
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 510f63266b097fe18823e614121a8aac, type: 3}
+>>>>>>> d913d2d (Psuh)
       name: Emision
     nameFileIdTable:
       MainCharacterIdleSpritesheet_0: 240481252
       MainCharacterIdleSpritesheet_1: -1563421741
+<<<<<<< HEAD
+========
+    - texture: {fileID: 2800000, guid: ad9f113a60a52e73f9196a6fb85988ae, type: 3}
+      name: Emision
+    nameFileIdTable:
+      GroundEnemyIdleSpritesheet_0: -482014431
+      GroundEnemyIdleSpritesheet_1: 322606167
+>>>>>>>> d913d2d (Psuh):GMTK-Game-Jam-2023/Assets/Enemies/GroundEnemy/Textures/GroundEnemyIdleSpritesheet.png.meta
+=======
+>>>>>>>> d913d2d (Psuh):GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/MainCharacterIdleSpritesheet.png.meta
+>>>>>>> d913d2d (Psuh)
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
