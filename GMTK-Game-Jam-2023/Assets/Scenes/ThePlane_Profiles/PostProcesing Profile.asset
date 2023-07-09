@@ -18,6 +18,7 @@ MonoBehaviour:
     value: 1
   intensity:
 <<<<<<< HEAD
+<<<<<<< HEAD
     overrideState: 1
     value: 10
   threshold:
@@ -28,6 +29,12 @@ MonoBehaviour:
   threshold:
     overrideState: 0
 >>>>>>> d913d2d (Psuh)
+=======
+    overrideState: 1
+    value: 10
+  threshold:
+    overrideState: 1
+>>>>>>> 20d289d (Gal po pudate UNiversal fixx)
     value: 1
   softKnee:
     overrideState: 0

@@ -151,7 +151,10 @@
       "version": "1.2.6",
       "depth": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 20d289d (Gal po pudate UNiversal fixx)
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -179,6 +182,7 @@
     },
     "com.unity.searcher": {
       "version": "4.9.1",
+<<<<<<< HEAD
       "depth": 2,
 >>>>>>> 6d303f1 (Gal po pudate UNiversal fixx)
       "source": "registry",
@@ -217,16 +221,22 @@
     },
     "com.unity.searcher": {
       "version": "4.9.1",
+=======
+>>>>>>> 20d289d (Gal po pudate UNiversal fixx)
       "depth": 2,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 20d289d (Gal po pudate UNiversal fixx)
     "com.unity.shadergraph": {
       "version": "12.1.11",
       "depth": 1,
       "source": "builtin",
+<<<<<<< HEAD
       "dependencies": {
         "com.unity.render-pipelines.core": "12.1.11",
         "com.unity.searcher": "4.9.1"
@@ -241,6 +251,12 @@
       },
       "url": "https://packages.unity.com"
 >>>>>>> d913d2d (Psuh)
+=======
+      "dependencies": {
+        "com.unity.render-pipelines.core": "12.1.11",
+        "com.unity.searcher": "4.9.1"
+      }
+>>>>>>> 20d289d (Gal po pudate UNiversal fixx)
     },
     "com.unity.sysroot": {
       "version": "2.0.6",

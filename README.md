@@ -128,6 +128,7 @@ Plezz make sprite shetes
 =======
 =======
 * [ ] Console Fing inplementteiosion
+* [ ] Seselis po zaideju ir priesu
 
 ---
 
