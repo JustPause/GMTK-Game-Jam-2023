@@ -19,10 +19,14 @@ TextureImporter:
   mipmaps:
     mipMapMode: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     enableMipMap: 1
 =======
     enableMipMap: 0
 >>>>>>> d913d2d (Psuh)
+=======
+    enableMipMap: 1
+>>>>>>> 89e2c82 (bEEPbOOP)
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -122,7 +126,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
 <<<<<<< HEAD
@@ -153,10 +157,14 @@ TextureImporter:
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
 <<<<<<< HEAD
+<<<<<<< HEAD
   textureType: 0
 =======
   textureType: 8
 >>>>>>> d913d2d (Psuh)
+=======
+  textureType: 0
+>>>>>>> 89e2c82 (bEEPbOOP)
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -174,10 +182,14 @@ TextureImporter:
     resizeAlgorithm: 0
     textureFormat: -1
 <<<<<<< HEAD
+<<<<<<< HEAD
     textureCompression: 0
 =======
     textureCompression: 1
 >>>>>>> d913d2d (Psuh)
+=======
+    textureCompression: 0
+>>>>>>> 89e2c82 (bEEPbOOP)
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0

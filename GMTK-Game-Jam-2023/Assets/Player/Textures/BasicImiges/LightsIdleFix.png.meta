@@ -33,17 +33,21 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/LightsIdleFix.png.meta
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 31f6727 (Szzzzzzzzzzzzzzzzzzzzzzzzz):GMTK-Game-Jam-2023/Assets/Player/Textures/DeathAnimation/MainCharacterDeath3.png.meta
+=======
+>>>>>>> 89e2c82 (bEEPbOOP)
     filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
+<<<<<<< HEAD
 <<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/LightsIdleFix.png.meta
 =======
 >>>>>>> 790e0d8 (Befor hell)
@@ -56,16 +60,22 @@ TextureImporter:
     wrapW: 3
 >>>>>>> 0ca0149 (Szzzzzzzzzzzzzzzzzzzzzzzzz)
 >>>>>>> 31f6727 (Szzzzzzzzzzzzzzzzzzzzzzzzz):GMTK-Game-Jam-2023/Assets/Player/Textures/DeathAnimation/MainCharacterDeath3.png.meta
+=======
+>>>>>>> 89e2c82 (bEEPbOOP)
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
+<<<<<<< HEAD
 <<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Player/Textures/BasicImiges/LightsIdleFix.png.meta
+=======
+>>>>>>> 89e2c82 (bEEPbOOP)
   spriteMeshType: 0
   alignment: 7
   spritePivot: {x: 0.5, y: 0}
   spritePixelsToUnits: 8
+<<<<<<< HEAD
 =======
   spriteMeshType: 1
   alignment: 0
@@ -80,6 +90,8 @@ TextureImporter:
   spritePixelsToUnits: 4
 >>>>>>> 0ca0149 (Szzzzzzzzzzzzzzzzzzzzzzzzz)
 >>>>>>> 31f6727 (Szzzzzzzzzzzzzzzzzzzzzzzzz):GMTK-Game-Jam-2023/Assets/Player/Textures/DeathAnimation/MainCharacterDeath3.png.meta
+=======
+>>>>>>> 89e2c82 (bEEPbOOP)
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1

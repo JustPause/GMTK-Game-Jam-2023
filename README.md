@@ -113,10 +113,10 @@ apsiribojam tokiu
 >>>>>>> d98de4b (Psuh)
 * [ ] Main cerecter Emision,
 * [ ] Enemy Death Script, it flops wen defeted
-Plezz make sprite shetes
 
 ---
 
+<<<<<<< HEAD
 >>>>>>> 259cc86 (z)
 * [ ] Eneemy movement
 <<<<<<< HEAD
@@ -127,6 +127,9 @@ Plezz make sprite shetes
 >>>>>>> 31f6727 (Szzzzzzzzzzzzzzzzzzzzzzzzz)
 =======
 =======
+=======
+* [ ] Eneemy movement addForsce if posibal
+>>>>>>> c9600dd (bEEPbOOP)
 * [ ] Console Fing inplementteiosion
 * [ ] Seselis po zaideju ir priesu
 

@@ -34,6 +34,7 @@ MonoBehaviour:
     m_OverrideState: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Value: 0.49
 =======
     m_Value: 1
@@ -41,6 +42,9 @@ MonoBehaviour:
 =======
     m_Value: 1
 >>>>>>> 20d289d (Gal po pudate UNiversal fixx)
+=======
+    m_Value: 0.49
+>>>>>>> 89e2c82 (bEEPbOOP)
   scatter:
     m_OverrideState: 0
     m_Value: 0.7

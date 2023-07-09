@@ -12,11 +12,15 @@ public class PlayerMovment : MonoBehaviour
     public Rigidbody player;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     public SpriteRenderer playerSpriteRenderer;
 =======
 >>>>>>> 6d303f1 (Gal po pudate UNiversal fixx)
 =======
 >>>>>>> 20d289d (Gal po pudate UNiversal fixx)
+=======
+    public SpriteRenderer playerSpriteRenderer;
+>>>>>>> 89e2c82 (bEEPbOOP)
     public Vector3 movement;
 
     void Start()
@@ -49,10 +53,14 @@ public class PlayerMovment : MonoBehaviour
         player.velocity = (vector3 * (movementSpeed * 100) * Time.deltaTime);
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 6d303f1 (Gal po pudate UNiversal fixx)
 =======
 >>>>>>> 20d289d (Gal po pudate UNiversal fixx)
+=======
+
+>>>>>>> 89e2c82 (bEEPbOOP)
     }
 }

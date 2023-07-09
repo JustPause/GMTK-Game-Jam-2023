@@ -378,8 +378,12 @@ TextureImporter:
       LightsIdle_1: 961903161
 ========
     secondaryTextures:
+<<<<<<< HEAD
     - texture: {fileID: 2800000, guid: 510f63266b097fe18823e614121a8aac, type: 3}
 >>>>>>> d913d2d (Psuh)
+=======
+    - texture: {fileID: 2800000, guid: aff36f85c6e2e2e1489f241051d4c3f6, type: 3}
+>>>>>>> 89e2c82 (bEEPbOOP)
       name: Emision
     nameFileIdTable:
       MainCharacterIdleSpritesheet_0: 240481252

@@ -16,6 +16,7 @@ Material:
   m_DoubleSidedGI: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_CustomRenderQueue: 3000
 =======
   m_CustomRenderQueue: -1
@@ -23,6 +24,9 @@ Material:
 =======
   m_CustomRenderQueue: -1
 >>>>>>> 20d289d (Gal po pudate UNiversal fixx)
+=======
+  m_CustomRenderQueue: 3000
+>>>>>>> 89e2c82 (bEEPbOOP)
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
@@ -30,6 +34,9 @@ Material:
     m_TexEnvs:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 89e2c82 (bEEPbOOP)
     - _Emision:
         m_Texture: {fileID: 2800000, guid: 4a11d65ce13d5f542a0ff136cc2f3fba, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -62,10 +69,13 @@ Material:
         m_Texture: {fileID: 2800000, guid: 510f63266b097fe18823e614121a8aac, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+<<<<<<< HEAD
 =======
 >>>>>>> 6d303f1 (Gal po pudate UNiversal fixx)
 =======
 >>>>>>> 20d289d (Gal po pudate UNiversal fixx)
+=======
+>>>>>>> 89e2c82 (bEEPbOOP)
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -84,6 +94,7 @@ Material:
     - _QueueOffset: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Colors:
     - _Color: {r: 0, g: 0, b: 0, a: 0}
 =======
@@ -92,6 +103,10 @@ Material:
 =======
     m_Colors: []
 >>>>>>> 20d289d (Gal po pudate UNiversal fixx)
+=======
+    m_Colors:
+    - _Color: {r: 0, g: 0, b: 0, a: 0}
+>>>>>>> 89e2c82 (bEEPbOOP)
   m_BuildTextureStacks: []
 --- !u!114 &2603331764442498145
 MonoBehaviour:

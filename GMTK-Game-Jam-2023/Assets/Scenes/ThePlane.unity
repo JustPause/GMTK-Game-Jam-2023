@@ -448,10 +448,14 @@ SpriteRenderer:
   m_RendererPriority: 0
   m_Materials:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 2100000, guid: 48bd8e2ceecbb8bc5bb9c802d928c735, type: 2}
 =======
   - {fileID: 2100000, guid: 23ff5238add1ba834aad455db619f8c4, type: 2}
 >>>>>>> d913d2d (Psuh)
+=======
+  - {fileID: 2100000, guid: 48bd8e2ceecbb8bc5bb9c802d928c735, type: 2}
+>>>>>>> 89e2c82 (bEEPbOOP)
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -491,12 +495,17 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 346147665}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalRotation: {x: 0.25881022, y: -0.007973878, z: 0.002136593, w: 0.965893}
   m_LocalPosition: {x: -56.305237, y: 4.39, z: 4.9802046}
 =======
   m_LocalRotation: {x: 0.25881904, y: 0, z: 0, w: 0.9659258}
   m_LocalPosition: {x: -56.33, y: 4.39, z: 4.98}
 >>>>>>> d913d2d (Psuh)
+=======
+  m_LocalRotation: {x: 0.25881022, y: -0.007973878, z: 0.002136593, w: 0.965893}
+  m_LocalPosition: {x: -56.305237, y: 4.39, z: 4.9802046}
+>>>>>>> 89e2c82 (bEEPbOOP)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -504,6 +513,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_RootOrder: 6
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_LocalEulerAnglesHint: {x: 30, y: -0.946, z: 0}
 =======
@@ -515,6 +525,9 @@ Transform:
 >>>>>>> 20d289d (Gal po pudate UNiversal fixx)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> 6d303f1 (Gal po pudate UNiversal fixx)
+=======
+  m_LocalEulerAnglesHint: {x: 30, y: -0.946, z: 0}
+>>>>>>> 89e2c82 (bEEPbOOP)
 --- !u!114 &346147669
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -596,9 +609,13 @@ GameObject:
   - component: {fileID: 356785388}
   - component: {fileID: 356785389}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 356785390}
 =======
 >>>>>>> d913d2d (Psuh)
+=======
+  - component: {fileID: 356785390}
+>>>>>>> 89e2c82 (bEEPbOOP)
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -644,6 +661,7 @@ SpriteRenderer:
   m_Materials:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 2100000, guid: 48bd8e2ceecbb8bc5bb9c802d928c735, type: 2}
 =======
   - {fileID: 2100000, guid: 8228131d3de3724bd9beed4a191e46d5, type: 2}
@@ -651,6 +669,9 @@ SpriteRenderer:
 =======
   - {fileID: 2100000, guid: 8228131d3de3724bd9beed4a191e46d5, type: 2}
 >>>>>>> 20d289d (Gal po pudate UNiversal fixx)
+=======
+  - {fileID: 2100000, guid: 48bd8e2ceecbb8bc5bb9c802d928c735, type: 2}
+>>>>>>> 89e2c82 (bEEPbOOP)
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -715,6 +736,7 @@ MonoBehaviour:
   gravity: 9.8
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   player: {fileID: 356785384}
   playerSpriteRenderer: {fileID: 0}
 =======
@@ -723,6 +745,10 @@ MonoBehaviour:
 =======
   player: {fileID: 0}
 >>>>>>> 20d289d (Gal po pudate UNiversal fixx)
+=======
+  player: {fileID: 356785384}
+  playerSpriteRenderer: {fileID: 0}
+>>>>>>> 89e2c82 (bEEPbOOP)
   movement: {x: 0, y: 0, z: 0}
 --- !u!65 &356785388
 BoxCollider:
@@ -759,6 +785,9 @@ Animator:
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 89e2c82 (bEEPbOOP)
 --- !u!114 &356785390
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -772,8 +801,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   folowMainCharecter: {fileID: 1121198466}
+<<<<<<< HEAD
 =======
 >>>>>>> d913d2d (Psuh)
+=======
+>>>>>>> 89e2c82 (bEEPbOOP)
 --- !u!1 &410772928
 GameObject:
   m_ObjectHideFlags: 0
@@ -1325,12 +1357,15 @@ GameObject:
   - component: {fileID: 873686416}
   - component: {fileID: 873686415}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   - component: {fileID: 873686418}
 <<<<<<< HEAD
 >>>>>>> 6d303f1 (Gal po pudate UNiversal fixx)
 =======
 >>>>>>> 20d289d (Gal po pudate UNiversal fixx)
+=======
+>>>>>>> 89e2c82 (bEEPbOOP)
   - component: {fileID: 873686419}
   m_Layer: 0
   m_Name: Camera
@@ -1413,6 +1448,7 @@ Transform:
   m_RootOrder: 5
 >>>>>>> 20d289d (Gal po pudate UNiversal fixx)
   m_LocalEulerAnglesHint: {x: 35, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!114 &873686419
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1479,6 +1515,8 @@ MonoBehaviour:
   m_BeforeTransparentBundles: []
   m_BeforeStackBundles: []
   m_AfterStackBundles: []
+=======
+>>>>>>> 89e2c82 (bEEPbOOP)
 --- !u!114 &873686419
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3190,6 +3228,7 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!114 &2084717864
 MonoBehaviour:
@@ -3218,6 +3257,8 @@ MonoBehaviour:
 >>>>>>> d913d2d (Psuh)
 =======
 >>>>>>> 20d289d (Gal po pudate UNiversal fixx)
+=======
+>>>>>>> 89e2c82 (bEEPbOOP)
 --- !u!4 &2084717865
 Transform:
   m_ObjectHideFlags: 0
