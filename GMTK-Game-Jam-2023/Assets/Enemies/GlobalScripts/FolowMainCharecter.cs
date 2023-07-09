@@ -5,14 +5,12 @@ using UnityEngine;
 public class FolowMainCharecter : MonoBehaviour
 {
 
-    public Transform player;
-    private Rigidbody rb;
+    public Transform playerLongSotry;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        rb = this.GetComponent<Rigidbody>();
-    }
+
+    public GameObject player;
+    public float speed;
+    public float distance;
 
     // Update is called once per frame
     void Update()
@@ -23,15 +21,17 @@ public class FolowMainCharecter : MonoBehaviour
             transform.position.z),
 
             new Vector3(
-                player.position.x,
-                player.position.y,
-                player.position.z
+                playerLongSotry.position.x,
+                playerLongSotry.position.y,
+                playerLongSotry.position.z
             )
         );
 
-        Vector3 direction = player.position - transform.position;
-        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
-        rb.rotation = new Quaternion(0, 90, 0, 0);
-        Debug.Log(angle);
+        distance = Vector3.Distance(transform.position, player.transform.position);
+        Vector3 direction = player.transform.position - transform.position;
+
+        transform.position = Vector3.MoveTowards(this.transform.position, player.transform.position, speed * Time.deltaTime);
+        // rigidbody.AddForce(vector3 * (movementSpeed * 100) * Time.deltaTime);
+
     }
 }

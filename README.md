@@ -48,10 +48,10 @@ Ideja yra ta, kad kuri saugoti kietaji diska nuo aplinkiniu givybes formu, jas g
 >>>>>>> d98de4b (Psuh)
 * [ ] Main cerecter Emision,
 * [ ] Enemy Death Script, it flops wen defeted
-Plezz make sprite shetes
 
 ---
 
+<<<<<<< HEAD
 >>>>>>> 259cc86 (z)
 * [ ] Eneemy movement
 <<<<<<< HEAD
@@ -59,6 +59,9 @@ Plezz make sprite shetes
 * [ ] Global Metereal enemyu
 * [ ] Enemy Death Script, it flops wen defeted
 =======
+=======
+* [ ] Eneemy movement addForsce if posibal
+>>>>>>> c9600dd (bEEPbOOP)
 * [ ] Console Fing inplementteiosion
 * [ ] Seselis po zaideju ir priesu
 

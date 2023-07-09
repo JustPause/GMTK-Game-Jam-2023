@@ -447,7 +447,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 23ff5238add1ba834aad455db619f8c4, type: 2}
+  - {fileID: 2100000, guid: 48bd8e2ceecbb8bc5bb9c802d928c735, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -486,14 +486,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 346147665}
-  m_LocalRotation: {x: 0.25881904, y: 0, z: 0, w: 0.9659258}
-  m_LocalPosition: {x: -56.33, y: 4.39, z: 4.98}
+  m_LocalRotation: {x: 0.25881022, y: -0.007973878, z: 0.002136593, w: 0.965893}
+  m_LocalPosition: {x: -56.305237, y: 4.39, z: 4.9802046}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 30, y: -0.946, z: 0}
 --- !u!114 &346147669
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -506,7 +506,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce78efe3482afbe7a89b0bb87b40aada, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 356785386}
+  playerLongSotry: {fileID: 356785386}
+  player: {fileID: 356785382}
+  speed: 6
+  distance: 0
 --- !u!65 &346147670
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -518,8 +521,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 6, y: 4.5, z: 0.2}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 6, y: 6, z: 0.2}
+  m_Center: {x: 0, y: 3, z: 0}
 --- !u!54 &346147671
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -571,6 +574,7 @@ GameObject:
   - component: {fileID: 356785387}
   - component: {fileID: 356785388}
   - component: {fileID: 356785389}
+  - component: {fileID: 356785390}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -614,7 +618,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8228131d3de3724bd9beed4a191e46d5, type: 2}
+  - {fileID: 2100000, guid: 48bd8e2ceecbb8bc5bb9c802d928c735, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -677,7 +681,8 @@ MonoBehaviour:
   movementSpeed: 10
   jumpPowor: 10
   gravity: 9.8
-  player: {fileID: 0}
+  player: {fileID: 356785384}
+  playerSpriteRenderer: {fileID: 0}
   movement: {x: 0, y: 0, z: 0}
 --- !u!65 &356785388
 BoxCollider:
@@ -713,6 +718,19 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &356785390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 356785382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68ee2bed36dff3a2885b6300ac470c04, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  folowMainCharecter: {fileID: 1121198466}
 --- !u!1 &410772928
 GameObject:
   m_ObjectHideFlags: 0
@@ -1247,7 +1265,6 @@ GameObject:
   - component: {fileID: 873686417}
   - component: {fileID: 873686416}
   - component: {fileID: 873686415}
-  - component: {fileID: 873686418}
   - component: {fileID: 873686419}
   m_Layer: 0
   m_Name: Camera
@@ -1322,66 +1339,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 35, y: 0, z: 0}
---- !u!114 &873686418
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 873686414}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  volumeTrigger: {fileID: 873686417}
-  volumeLayer:
-    serializedVersion: 2
-    m_Bits: 0
-  stopNaNPropagation: 1
-  finalBlitToCameraTarget: 0
-  antialiasingMode: 0
-  temporalAntialiasing:
-    jitterSpread: 0.75
-    sharpness: 0.25
-    stationaryBlending: 0.95
-    motionBlending: 0.85
-  subpixelMorphologicalAntialiasing:
-    quality: 2
-  fastApproximateAntialiasing:
-    fastMode: 0
-    keepAlpha: 0
-  fog:
-    enabled: 1
-    excludeSkybox: 1
-  debugLayer:
-    lightMeter:
-      width: 512
-      height: 256
-      showCurves: 1
-    histogram:
-      width: 512
-      height: 256
-      channel: 3
-    waveform:
-      exposure: 0.12
-      height: 256
-    vectorscope:
-      size: 256
-      exposure: 0.12
-    overlaySettings:
-      linearDepth: 0
-      motionColorIntensity: 4
-      motionGridSize: 64
-      colorBlindnessType: 0
-      colorBlindnessStrength: 1
-  m_Resources: {fileID: 11400000, guid: d82512f9c8e5d4a4d938b575d47f88d4, type: 2}
-  m_ShowToolkit: 0
-  m_ShowCustomSorter: 0
-  breakBeforeColorGrading: 0
-  m_BeforeTransparentBundles: []
-  m_BeforeStackBundles: []
-  m_AfterStackBundles: []
 --- !u!114 &873686419
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1673,7 +1630,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 23ff5238add1ba834aad455db619f8c4, type: 2}
+  - {fileID: 2100000, guid: fb11ff1ba6c9fd969b4bf74a2ed4332f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1748,7 +1705,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce78efe3482afbe7a89b0bb87b40aada, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 356785386}
+  playerLongSotry: {fileID: 356785386}
+  player: {fileID: 356785382}
+  speed: 4
+  distance: 0
 --- !u!65 &1121198467
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3040,7 +3000,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2084717865}
-  - component: {fileID: 2084717864}
   m_Layer: 0
   m_Name: PostProcesing
   m_TagString: Untagged
@@ -3048,23 +3007,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &2084717864
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2084717863}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sharedProfile: {fileID: 11400000, guid: e5f48b7a1cc0adb5a88894c4d3351fdf, type: 2}
-  isGlobal: 1
-  blendDistance: 0
-  weight: 1
-  priority: 0
 --- !u!4 &2084717865
 Transform:
   m_ObjectHideFlags: 0
