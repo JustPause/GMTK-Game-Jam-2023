@@ -37,8 +37,18 @@ Ideja yra ta, kad kuri saugoti kietaji diska nuo aplinkiniu givybes formu, jas g
 
 ---
 
+<<<<<<< HEAD
 * [ ] Main Carecter Animation
 * [ ] Main cerecter Emision
+=======
+* [ ] Main Carecter Animation, ejimas, mirtis
+* [ ] Main cerecter Emision,
+* [ ] Enemy Death Script, it flops wen defeted
+Plezz make sprite shetes
+
+---
+
+>>>>>>> 259cc86 (z)
 * [ ] Eneemy movement
 * [ ] Text and responces
 * [ ] Global Metereal enemyu
