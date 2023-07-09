@@ -493,7 +493,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 6
+<<<<<<< HEAD
   m_LocalEulerAnglesHint: {x: 30, y: -0.946, z: 0}
+=======
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> 6d303f1 (Gal po pudate UNiversal fixx)
 --- !u!114 &346147669
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -618,7 +622,11 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< HEAD
   - {fileID: 2100000, guid: 48bd8e2ceecbb8bc5bb9c802d928c735, type: 2}
+=======
+  - {fileID: 2100000, guid: 8228131d3de3724bd9beed4a191e46d5, type: 2}
+>>>>>>> 6d303f1 (Gal po pudate UNiversal fixx)
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -681,8 +689,12 @@ MonoBehaviour:
   movementSpeed: 10
   jumpPowor: 10
   gravity: 9.8
+<<<<<<< HEAD
   player: {fileID: 356785384}
   playerSpriteRenderer: {fileID: 0}
+=======
+  player: {fileID: 0}
+>>>>>>> 6d303f1 (Gal po pudate UNiversal fixx)
   movement: {x: 0, y: 0, z: 0}
 --- !u!65 &356785388
 BoxCollider:
@@ -1265,6 +1277,10 @@ GameObject:
   - component: {fileID: 873686417}
   - component: {fileID: 873686416}
   - component: {fileID: 873686415}
+<<<<<<< HEAD
+=======
+  - component: {fileID: 873686418}
+>>>>>>> 6d303f1 (Gal po pudate UNiversal fixx)
   - component: {fileID: 873686419}
   m_Layer: 0
   m_Name: Camera
@@ -1351,6 +1367,69 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
+=======
+  volumeTrigger: {fileID: 873686417}
+  volumeLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  stopNaNPropagation: 1
+  finalBlitToCameraTarget: 0
+  antialiasingMode: 0
+  temporalAntialiasing:
+    jitterSpread: 0.75
+    sharpness: 0.25
+    stationaryBlending: 0.95
+    motionBlending: 0.85
+  subpixelMorphologicalAntialiasing:
+    quality: 2
+  fastApproximateAntialiasing:
+    fastMode: 0
+    keepAlpha: 0
+  fog:
+    enabled: 1
+    excludeSkybox: 1
+  debugLayer:
+    lightMeter:
+      width: 512
+      height: 256
+      showCurves: 1
+    histogram:
+      width: 512
+      height: 256
+      channel: 3
+    waveform:
+      exposure: 0.12
+      height: 256
+    vectorscope:
+      size: 256
+      exposure: 0.12
+    overlaySettings:
+      linearDepth: 0
+      motionColorIntensity: 4
+      motionGridSize: 64
+      colorBlindnessType: 0
+      colorBlindnessStrength: 1
+  m_Resources: {fileID: 11400000, guid: d82512f9c8e5d4a4d938b575d47f88d4, type: 2}
+  m_ShowToolkit: 0
+  m_ShowCustomSorter: 0
+  breakBeforeColorGrading: 0
+  m_BeforeTransparentBundles: []
+  m_BeforeStackBundles: []
+  m_AfterStackBundles: []
+--- !u!114 &873686419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 873686414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> 6d303f1 (Gal po pudate UNiversal fixx)
   m_RenderShadows: 1
   m_RequiresDepthTextureOption: 2
   m_RequiresOpaqueTextureOption: 2
@@ -3007,6 +3086,26 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
+=======
+--- !u!114 &2084717864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2084717863}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sharedProfile: {fileID: 11400000, guid: e5f48b7a1cc0adb5a88894c4d3351fdf, type: 2}
+  isGlobal: 1
+  blendDistance: 0
+  weight: 1
+  priority: 0
+>>>>>>> 6d303f1 (Gal po pudate UNiversal fixx)
 --- !u!4 &2084717865
 Transform:
   m_ObjectHideFlags: 0

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Glow/Enemy_Updated 1.mat.meta
 guid: fb11ff1ba6c9fd969b4bf74a2ed4332f
+========
+guid: 48bd8e2ceecbb8bc5bb9c802d928c735
+>>>>>>>> 6d303f1 (Gal po pudate UNiversal fixx):GMTK-Game-Jam-2023/Assets/Glow/Player_Updated.mat.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000
