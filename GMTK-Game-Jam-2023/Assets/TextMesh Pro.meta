@@ -1,8 +1,14 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/TextMesh Pro.meta
 guid: f54d1bd14bd3ca042bd867b519fee8cc
 folderAsset: yes
 DefaultImporter:
+========
+guid: a8ed74a909352aaca885332560eec43e
+NativeFormatImporter:
+>>>>>>>> 6d303f1 (Gal po pudate UNiversal fixx):GMTK-Game-Jam-2023/Assets/Shadow.mat.meta
   externalObjects: {}
+  mainObjectFileID: 2100000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
