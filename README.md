@@ -40,11 +40,10 @@ Ideja yra ta, kad kuri saugoti kietaji diska nuo aplinkiniu givybes formu, jas g
 * [x] Main Carecter Animation, ejimas, mirtis
 * [ ] Main cerecter Emision,
 * [ ] Enemy Death Script, it flops wen defeted
-Plezz make sprite shetes
 
 ---
 
-* [ ] Eneemy movement
+* [ ] Eneemy movement addForsce if posibal
 * [ ] Console Fing inplementteiosion
 * [ ] Seselis po zaideju ir priesu
 
