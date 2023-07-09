@@ -1,9 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Scenes/SceneAssets/Textures/BackgroundObjects/Materials.meta
 guid: f9d1a685275010fa1bae0290736fc0ea
 ========
 guid: 208fd7030a1c0cf9b8f97c38407bffe7
 >>>>>>>> 0ca0149 (Szzzzzzzzzzzzzzzzzzzzzzzzz):GMTK-Game-Jam-2023/Assets/Enemies/FlyingEnemy/Textures/DeathAnimation.meta
+=======
+guid: f9d1a685275010fa1bae0290736fc0ea
+>>>>>>> e180b00 (aa?)
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

@@ -34,10 +34,14 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     filterMode: 0
 =======
     filterMode: 1
 >>>>>>> 0ca0149 (Szzzzzzzzzzzzzzzzzzzzzzzzz)
+=======
+    filterMode: 0
+>>>>>>> e180b00 (aa?)
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -50,6 +54,7 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   alignment: 7
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 4
@@ -58,6 +63,11 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
 >>>>>>> 0ca0149 (Szzzzzzzzzzzzzzzzzzzzzzzzz)
+=======
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 4
+>>>>>>> e180b00 (aa?)
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1

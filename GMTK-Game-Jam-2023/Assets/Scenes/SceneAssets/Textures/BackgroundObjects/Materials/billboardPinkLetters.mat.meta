@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<<< HEAD:GMTK-Game-Jam-2023/Assets/Scenes/SceneAssets/Textures/BackgroundObjects/Materials/billboardPinkLetters.mat.meta
 guid: dfb21ef3370a289399bd6a33046347e4
 ========
@@ -7,6 +8,12 @@ guid: 02880cfc066d64fcd91f23d80175941a
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 9100000
+=======
+guid: dfb21ef3370a289399bd6a33046347e4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+>>>>>>> e180b00 (aa?)
   userData: 
   assetBundleName: 
   assetBundleVariant: 
