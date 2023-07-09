@@ -50,6 +50,60 @@ Plezz make sprite shetes
 
 >>>>>>> 259cc86 (z)
 * [ ] Eneemy movement
+<<<<<<< HEAD
 * [ ] Text and responces
 * [ ] Global Metereal enemyu
 * [ ] Enemy Death Script, it flops wen defeted
+=======
+* [ ] Console Fing inplementteiosion
+
+---
+
+* [ ] graziai sudetri
+* [ ] padaryti kad zenklai sviestu ground fings
+
+## Terminal commands
+
+# MENU:
+Type 'help' for help
+when you type help:
+Type 'start' to start the game
+Type 'exit' to exit the game
+In game:
+Type 'controls' for help with controls
+Type 'commands' for help with hack commands
+
+# When you type controls:
+W - up
+A - left
+S - down
+D - right
+(other controls)
+
+# Command ideas
+Connect - connects to the enemy bots
+Freeze - stops the enemy from moving for a period of time
+Swap - transfers you into the currently targeted body.
+Kill - shuts down your current body
+
+---
+
+# tai zaidimo idea goes like this
+
+* Boot - boot up the body
+* controls - you figure stuff out
+* You walk around
+* enemy shows up
+* Connect - connect to the body
+* freeze - stop it from moving for X amount of time
+* swap - transfer to the other body
+* kill - to kill it
+* swap - to transfer back to your body
+* continue the game like this
+
+the end of the game tures tiesiog koki nors  trigger point kur tau I console parasys:
+"Freeze command has been executed on your delivery bot"
+Error: kazkoks error kad nebeturi access prie savo movement keys
+ir vienintelis option lieka kad tu turi executinti kill command ant saves
+apsiribojam tokiu
+>>>>>>> e180b00 (aa?)
