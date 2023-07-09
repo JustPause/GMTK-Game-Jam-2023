@@ -46,6 +46,7 @@ Plezz make sprite shetes
 
 * [ ] Eneemy movement
 * [ ] Console Fing inplementteiosion
+* [ ] Seselis po zaideju ir priesu
 
 ---
 
